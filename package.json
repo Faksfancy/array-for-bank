@@ -1,0 +1,15 @@
+{
+  "name": "bank-app",
+  "version": "1.0.0",
+  "description": "a bank app",
+  "default": "index.html",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir ./dist"
+  },
+  "author": "Fakolujo Micheal",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.0.0"
+  }
+}
